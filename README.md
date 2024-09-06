@@ -19,6 +19,8 @@ After a deep dive into BrainStation's data science bootcamp, I'm all set to use 
 #### 📊 Projects
 - **Urban Explorer: Machine Learning-Driven Discoveries**
   This project is all about turning what I love—discovering cool new spots and experiences—into something we can all use to make better choices about where to hang out and what to do. It uses machine learning to craft personal recommendations for dining and fun based on what you like. [Check it out](https://github.com/drojas-25/BrainStation-Capstone)
+- **NBA Attendance Data Analysis**
+  As part of a fast-paced, hands-on learning experience through the Clicked & IBM SkillsBuild Mini Sprint program, I aimed to develop a predictive model to identify the key factors influencing game attendance. Focusing on variables like the day a game is scheduled, team performance metrics, and seasonal trends to provide actionable recommendations that could inform the NBA’s scheduling, marketing strategies, and resource planning.  [Check it out](https://github.com/drojas-25/NBA-Data-Analysis)
 
 #### 📈 My Approach
 I dive deep into data, play around with models, and always keep learning to make sure our digital solutions really hit the mark. My aim? To make data science down-to-earth and impactful, helping us all get more from our daily experiences.
